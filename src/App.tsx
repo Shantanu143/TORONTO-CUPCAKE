@@ -1,10 +1,10 @@
-
-
+import React from 'react'
+import Home from './Container/Home/Home.jsx'
 const App = () => {
   return (
-    <h1 className="text-3xl font-bold underline">
-      project setup done for toronto cupcake
-    </h1>
+    <div>
+      <Home />
+    </div>
   )
 }
 
