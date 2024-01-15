@@ -1,0 +1,24 @@
+.bg_img { 
+   background-image: url('../../assets/background.png'); /* Replace 'your-image-url.jpg' with the actual path or URL of your image */
+            background-size: cover; /* Ensures the background image covers the entire container */
+            background-position: center; /* Centers the background image */
+            margin: 0;
+            /* Removes default margin */
+            padding-bottom:40px;
+            justify-content: center;
+            align-items: center;
+}
+
+.bg{
+  margin-top:20px;
+  background: linear-gradient(90deg, rgba(142,0,66,1) 0%, rgba(192,66,116,1) 35%, rgba(248,120,168,1) 100%);
+}
+
+hr{
+      color: inherit;
+    border-top-width: 3px !important;
+}
+
+.padding {
+padding:60px 80px;
+}

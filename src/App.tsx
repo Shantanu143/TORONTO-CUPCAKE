@@ -1,5 +1,5 @@
 import React from 'react'
-import Home from './Container/Home/Home.jsx'
+import Home from './Container/Home/Home'
 const App = () => {
   return (
     <div>
