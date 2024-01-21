@@ -1,4 +1,3 @@
-import React from 'react'
 import './HowItMade.css'
 import img1 from '../../assets/infoImg1.png';
 import img2 from '../../assets/infoImg2.png';

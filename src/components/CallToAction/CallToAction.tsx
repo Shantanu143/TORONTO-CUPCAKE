@@ -1,4 +1,3 @@
-import React from 'react'
 
 import pieImg from '../../assets/pie.png'
 import freshImg from '../../assets/fresh.png'

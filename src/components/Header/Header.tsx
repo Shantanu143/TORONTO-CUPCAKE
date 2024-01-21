@@ -1,4 +1,3 @@
-import React from 'react'
 import './header.css'
 import cupcakeImg from '../../assets/cupcakeImg.png'
 const Header = () => {

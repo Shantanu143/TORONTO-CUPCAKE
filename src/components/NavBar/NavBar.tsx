@@ -1,5 +1,5 @@
-import React, { useEffect, useState } from 'react';
-import { FaBarsStaggered, FaXmark, FaPerson } from 'react-icons/fa6';
+import { useEffect, useState } from 'react';
+import { FaBarsStaggered, FaXmark } from 'react-icons/fa6';
 
 import headerLogo from '../../assets/torentoLogo.png'
 

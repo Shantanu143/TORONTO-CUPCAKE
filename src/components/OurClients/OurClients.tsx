@@ -1,4 +1,3 @@
-import React from 'react'
 import ibm from '../../assets/ibm.png';
 import spotify from '../../assets/spotify.png';
 import coca from '../../assets/coca.png';

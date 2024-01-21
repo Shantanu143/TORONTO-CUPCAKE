@@ -1,4 +1,3 @@
-import React from 'react'
 import './AboutUs.css'
 import bekar from '../../assets/bekar.png'
 const AboutUs = () => {
