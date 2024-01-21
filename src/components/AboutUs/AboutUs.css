@@ -1,0 +1,6 @@
+.bg_about{
+  padding:5rem;
+background: linear-gradient(0deg, #201A1B, #201A1B),
+radial-gradient(96.28% 204.39% at 98.16% 3.72%, rgba(153, 64, 93, 0.2) 0%, rgba(0, 0, 0, 0.048) 70.6%) /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */;
+}
+
